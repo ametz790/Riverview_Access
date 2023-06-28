@@ -8,4 +8,4 @@ Created Access relational database for fictitious Riverview Veterinary Care Cent
 
 •	Compacted & repaired database to preserve data and efficiency, freeing up computer resources.
 
-# Click the "Wiki" tab above to see a preview image of the program.
+Click the "Wiki" tab above to see a preview image of the program.
